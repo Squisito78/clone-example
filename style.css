@@ -1,0 +1,27 @@
+.page {
+  background-color: rgb(233, 241, 241);
+  max-width: 600px;
+}
+.title {
+  color: rgb(76, 76, 215);
+  size: 50px;
+}
+
+.description {
+  color: gray;
+  size: 200px;
+}
+
+.card {
+  width: 350px;
+  margin-bottom: 60px;
+  padding: 45px 45px 70px;
+  background: #e1eef2;
+  box-shadow: 4px 4px 5px rgba(0, 132, 255, 0.9);
+}
+
+.card_image {
+  size: 300px;
+  width: 100%;
+  margin: 25px;
+}
